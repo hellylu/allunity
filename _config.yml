@@ -1,6 +1,6 @@
 ---
 title: Allunity
-timezone: UTC
+timezone: Africa/Cairo
 collections:
   posts:
     title: Posts
@@ -9,3 +9,4 @@ collections:
     title: Uploads
     output: true
 theme: jekyll-theme-cayman
+Field name: 
